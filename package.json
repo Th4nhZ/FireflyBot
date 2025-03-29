@@ -1,0 +1,27 @@
+{
+  "name": "fireflybot",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Hello, World!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Th4nhZ/FireflyBot.git"
+  },
+  "keywords": [],
+  "author": "ThanhZ",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Th4nhZ/FireflyBot/issues"
+  },
+  "homepage": "https://github.com/Th4nhZ/FireflyBot#readme",
+  "description": "A discord.js bot written in javascript with the same features as @Th4nhZ/FurinaBot",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "bufferutil": "^4.0.9",
+    "discord.js": "^14.18.0",
+    "zlib-sync": "^0.1.9"
+  }
+}
